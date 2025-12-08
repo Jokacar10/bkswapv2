@@ -8,7 +8,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.6",
     "@uniswap/sdk-core": "^3.0.1",
-    "@uniswap/smart-order-router": "^3.24.3",
+    "@uniswap/smart-order-router": "^4.5.2",
     "axios": "^1.12.0",
     "bignumber.js": "^9.1.0",
     "hardhat-gas-reporter": "^2.0.0",
